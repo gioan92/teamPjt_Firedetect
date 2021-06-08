@@ -27,10 +27,16 @@
   - Pycharm 20.3.1
 - RaspberryPi4
   - Python 3.7
-- Ubuntu
+- Ubuntu 20.04.2 LTS
+  - EC2
   - Anaconda3 / Python 3.7.6
-  - Django 3.1.5
-  - MariaDB 10.3.11
+  - Docker 20.10.6
+  - Nginx 1.18.0
+  - Gunicorn 20.1.0
+  - Django 3.1.7
+  - Django RestFramework 3.12.2
+  - React JS
+  - MariaDB 15.1
 
 
 
