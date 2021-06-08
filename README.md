@@ -24,13 +24,13 @@
 ### 개발환경/기술스택
 
 - Desktop
-  Pycharm 20.3.1
+  - Pycharm 20.3.1
 - RaspberryPi4
-  Python 3.7
+  - Python 3.7
 - Ubuntu
-  Anaconda3 / Python 3.7.6
-  Django 3.1.5
-  MariaDB 10.3.11
+  - Anaconda3 / Python 3.7.6
+  - Django 3.1.5
+  - MariaDB 10.3.11
 
 
 
